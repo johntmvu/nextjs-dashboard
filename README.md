@@ -3,7 +3,7 @@
 This is the final project from the official [Next.js Learn course](https://nextjs.org/learn). It demonstrates fundamental Next.js concepts, including routing, dynamic pages, API routes, and data fetching. The project is deployed and live on [Vercel](https://vercel.com).
 
 ## 🚀 Live Demo  
-Check out the deployed project here: **[Next.js Learn Project](https://your-vercel-url.vercel.app)**
+Check out the deployed project here: **[Next.js Learn Project](https://finance-dashboard-johntmvu.vercel.app/)**
 
 ## 📚 Features
 - **File-based routing**: Organize and create pages effortlessly.
